@@ -1,0 +1,24 @@
+
+
+body {
+    background-color: lightpink;
+}
+
+h4 {
+    color: darkslateblue;
+    padding-left: 30px;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.funfact {
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
